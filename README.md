@@ -6,7 +6,7 @@
 > lead schema, scores each lead against the firm's service catalog using RAG + LLMs,
 > and surfaces the results in a web dashboard with Microsoft Teams notifications.
 
-**Client:** RSM Colombia (audit, tax & consulting firm) · **Role:** Full-stack / data engineering · **Status:** In production
+**Client:** Audit, tax & consulting firm (Colombia) · **Role:** Full-stack / data engineering · **Status:** In production
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white">
